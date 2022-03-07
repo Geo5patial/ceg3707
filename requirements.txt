@@ -1,5 +1,2 @@
-os
-copy
-subprocess
 matplotlib
 numpy
